@@ -1,2 +1,2 @@
 <div align="center">
-<h1>Hello, I'm Justin!</h1>
+<h1>Hi there 👋</h1>
