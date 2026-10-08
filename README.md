@@ -1,2 +1,3 @@
-<div align="center">
-<h1>Hi there 👋</h1>
+<p align="center">
+  <img src="robot.gif" width="160" alt="A little robot waving hello">
+</p>
